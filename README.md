@@ -6,7 +6,7 @@ This is the landing page for a fictional company called Horiseon, which focuses 
 
 ##The finished product 
 
-![Screenshot of landing page](assets\images\01-html-css-git-homework-demo.png)
+![Screenshot of landing page](assets/images/01-html-css-git-homework-demo.png)
 
 The live deployment can be found at https://soundproofboot.github.io/horiseon-landing-page/
 
